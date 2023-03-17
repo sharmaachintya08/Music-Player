@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/outer_app_color"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:padding="20dp"
+    android:weightSum="2">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/upper_fragment"
+        android:name="com.example.emptyactivity.Fragments.MainScreen.SongsList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/outer_app_color"
+        tools:layout="@layout/fragment_song_playing"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="16dp"
+        android:layout_weight="0.2"/>
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/bottom_fragment"
+        android:name="com.example.emptyactivity.Fragments.BottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/outer_app_color"
+        tools:layout="@layout/fragment_bottom_bar"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="644dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="1.8"/>
+</LinearLayout>
