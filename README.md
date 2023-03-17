@@ -2,32 +2,22 @@
 
 <h3>Screenshots</h3>
 
-<div class="row">
-      <img src="/screenshots/4.jpeg" width="250" title="Home Tab">
-      <img src="/screenshots/7.jpeg" width="250" title="Now Playing Tab">     
-      <img src="/screenshots/8.jpeg" width="250" title="Play Queue">
-</div>
-
-
-<div class="row">
-      <img src="/screenshots/10.jpeg" width="250" title="Create Playlist">
-      <img src="/screenshots/5.jpeg" width="250" title="Add To Playlist">     
-      <img src="/screenshots/6.jpeg" width="250" title="Chose Playlist">
-</div>
-
-
-<div class="row">
-      <img src="/screenshots/11.jpeg" width="250" title="Playlist Tab">
-      <img src="/screenshots/14.jpeg" width="250" title="Single Playlist">     
-      <img src="/screenshots/15.jpeg" width="250" title="Remove From Playlist">
-</div>
-
-
-<div class="row">
-      <img src="/screenshots/11.jpeg" width="250" title="Playlist Tab">
-      <img src="/screenshots/12.jpeg" width="250" title="Empty Favorite">     
-      <img src="/screenshots/13.jpeg" width="250" title="Full Fav">
-</div>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/1.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/2.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/3.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/4.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/5.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/6.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/7.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/8.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/9.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/10.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/11.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/12.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/13.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/14.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/15.jpeg)<br/>
+![alt text](https://github.com/sharmaachintya08/pictures/blob/master/16.jpeg)<br/>
 
 ## It makes use of following:-
 - **LiveData & MutableLiveData** for updating and listening to realtime datachanges in app. Also livedata can survive configuration changes.
